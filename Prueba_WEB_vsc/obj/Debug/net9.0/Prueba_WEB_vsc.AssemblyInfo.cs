@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prueba_WEB_vsc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98d84d57c3e550950d7be04c0f02be525c5c1123")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prueba_WEB_vsc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prueba_WEB_vsc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
